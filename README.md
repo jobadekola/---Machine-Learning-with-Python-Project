@@ -1,4 +1,4 @@
-# ---Machine-Learning-with-Python-Project
+# ---Machine-Learning-Loan-data-project
 Project is based on predicting the loan status of different loan customers based on historical data and other external factors using different machine learning algorithms.
 
 In the notebook, I worked on a loan dataset and built different predictive alogorithms.
