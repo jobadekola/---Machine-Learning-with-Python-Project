@@ -17,6 +17,7 @@ Dataset
 4	6	6	PAIDOFF	1000	30	9/9/2016	10/8/2016	29	college	male
 
 
+
 Algorithms Used
 
 | Algorithm          | Jaccard | F1-score | LogLoss |
