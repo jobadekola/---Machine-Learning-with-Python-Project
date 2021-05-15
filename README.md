@@ -9,7 +9,8 @@ I loaded a dataset using Pandas library, applied the following algorithms, and s
 
 Dataset
 
-[image](https://user-images.githubusercontent.com/32384910/118344256-a4284800-b570-11eb-9605-440b7c0ee5a7.png)
+<img width="784" alt="Screen Shot 2021-05-15 at 11 30 42 am" src="https://user-images.githubusercontent.com/32384910/118344319-fec1a400-b570-11eb-80b9-3e543db28e0c.png">
+
 
 
 
