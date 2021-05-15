@@ -9,12 +9,13 @@ I loaded a dataset using Pandas library, applied the following algorithms, and s
 
 Dataset
 
-	Unnamed: 0	Unnamed: 0.1	loan_status	Principal	terms	effective_date	due_date	age	education	Gender
-0	0	0	PAIDOFF	1000	30	9/8/2016	10/7/2016	45	High School or Below	male
-1	2	2	PAIDOFF	1000	30	9/8/2016	10/7/2016	33	Bechalor	female
-2	3	3	PAIDOFF	1000	15	9/8/2016	9/22/2016	27	college	male
-3	4	4	PAIDOFF	1000	30	9/9/2016	10/8/2016	28	college	female
-4	6	6	PAIDOFF	1000	30	9/9/2016	10/8/2016	29	college	male
+Unnamed: 0	Unnamed: 0.1	loan_status	Principal	terms	effective_date	due_date	age	education	Gender	
+0	0	0	PAIDOFF	1000	30	9/8/16	10/7/16	45	High School or Below	male
+1	2	2	PAIDOFF	1000	30	9/8/16	10/7/16	33	Bechalor	female
+2	3	3	PAIDOFF	1000	15	9/8/16	9/22/2016	27	college	male
+3	4	4	PAIDOFF	1000	30	9/9/16	10/8/16	28	college	female
+4	6	6	PAIDOFF	1000	30	9/9/16	10/8/16	29	college	male![image](https://user-images.githubusercontent.com/32384910/118344256-a4284800-b570-11eb-9605-440b7c0ee5a7.png)
+
 
 
 
